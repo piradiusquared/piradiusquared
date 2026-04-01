@@ -1,4 +1,4 @@
-## Hi there 👋
+Messing around with config
 
 <!--
 **piradiusquared/piradiusquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
